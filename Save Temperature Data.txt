@@ -1,0 +1,162 @@
+
+Day 1
+Daytime Temperatures   : 70 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 10 F
+
+Day 2
+Daytime Temperatures   : 71 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 10 F
+
+Day 3
+Daytime Temperatures   : 72 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 10 F
+
+Day 4
+Daytime Temperatures   : 73 F
+Nighttime Temperatures : 63 F
+Temperature Fluctuations : 10 F
+
+Day 5
+Daytime Temperatures   : 74 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 14 F
+
+Day 6
+Daytime Temperatures   : 75 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 14 F
+
+Day 7
+Daytime Temperatures   : 76 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 14 F
+
+Day 8
+Daytime Temperatures   : 77 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 17 F
+
+Day 9
+Daytime Temperatures   : 78 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 17 F
+
+Day 10
+Daytime Temperatures   : 79 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 17 F
+
+Day 11
+Daytime Temperatures   : 80 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 20 F
+
+Day 12
+Daytime Temperatures   : 70 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 10 F
+
+Day 13
+Daytime Temperatures   : 71 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 10 F
+
+Day 14
+Daytime Temperatures   : 72 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 10 F
+
+Day 15
+Daytime Temperatures   : 73 F
+Nighttime Temperatures : 63 F
+Temperature Fluctuations : 10 F
+
+Day 16
+Daytime Temperatures   : 74 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 14 F
+
+Day 17
+Daytime Temperatures   : 75 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 14 F
+
+Day 18
+Daytime Temperatures   : 76 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 14 F
+
+Day 19
+Daytime Temperatures   : 77 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 17 F
+
+Day 20
+Daytime Temperatures   : 78 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 17 F
+
+Day 21
+Daytime Temperatures   : 79 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 17 F
+
+Day 22
+Daytime Temperatures   : 80 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 20 F
+
+Day 23
+Daytime Temperatures   : 70 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 10 F
+
+Day 24
+Daytime Temperatures   : 71 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 10 F
+
+Day 25
+Daytime Temperatures   : 72 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 10 F
+
+Day 26
+Daytime Temperatures   : 73 F
+Nighttime Temperatures : 63 F
+Temperature Fluctuations : 10 F
+
+Day 27
+Daytime Temperatures   : 74 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 14 F
+
+Day 28
+Daytime Temperatures   : 75 F
+Nighttime Temperatures : 61 F
+Temperature Fluctuations : 14 F
+
+Day 29
+Daytime Temperatures   : 76 F
+Nighttime Temperatures : 62 F
+Temperature Fluctuations : 14 F
+
+Day 30
+Daytime Temperatures   : 77 F
+Nighttime Temperatures : 60 F
+Temperature Fluctuations : 17 F
+
+Average Daytime Temperature    : 74.6 F
+Average Nighttime Temperature : 61.1 F
+
+Max Day Temperature          : 80 F
+Min Day Temperature           : 70 F
+
+Max Night Temperature        : 63 F
+Min Night Temperature         : 60 F
+
+
+Temperature conditions are suitable for orchid blooming.

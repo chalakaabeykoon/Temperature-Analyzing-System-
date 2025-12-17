@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1724662828 source:c:\users\wwwdi\onedrive\desktop\12\n1\main.cpp
+	<iostream>
+	<fstream>
+
+1724846308 source:c:\users\rangedara\desktop\fpcode\cse_4002\q02. c++ temperature code\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
